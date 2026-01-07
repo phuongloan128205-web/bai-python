@@ -1,0 +1,1 @@
+print("Xin chào, đây là bài Python đầu tiên")
